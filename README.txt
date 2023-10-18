@@ -1,8 +1,10 @@
 # median
+
 RECRUITMENT TASK:
 "Find median of expenses which were spent only in the first days of each month (included Sunday). 
-Use function 
-If you want you can propose your solution ;)
+Use function 'get_median_of_first_week_expenses' with argument 'expenses'."
+
+/* If you want you can propose your solution of this task ;) */
 
 
 DATA: 
